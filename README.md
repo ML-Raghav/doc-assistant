@@ -40,7 +40,7 @@ Claude reads the right files, searches across them, and responds with accurate, 
 ```
 ╭──────────────────────────────────────────╮
 │  📄 Agentic Document Assistant            │
-│  Powered by Claude · /help · /quit        │
+ │
 ╰──────────────────────────────────────────╯
 Watching docs in: /home/raghav/doc-assistant/docs
 
